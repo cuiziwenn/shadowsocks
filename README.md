@@ -13,6 +13,8 @@
 
 /etc/init.d/shadowsocks-go status
 
+./shadowsocks-all.sh uninstall      ## 卸载
+
 Windows：https://github.com/shadowsocks/shadowsocks-windows/releases
 
 Android:https://github.com/shadowsocks/shadowsocks-android/releases
