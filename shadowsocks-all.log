@@ -1,0 +1,10 @@
+[3;J[H[2JWhich Shadowsocks server you'd select:
+[0;32m1[0m) Shadowsocks-Python
+[0;32m2[0m) ShadowsocksR
+[0;32m3[0m) Shadowsocks-Go
+[0;32m4[0m) Shadowsocks-libev
+Please enter a number (Default Shadowsocks-Python):
+You choose = Shadowsocks-Go
+
+Please enter password for Shadowsocks-Go
+(Default password: teddysun.com):
