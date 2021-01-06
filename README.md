@@ -6,8 +6,11 @@
 
 
 /etc/init.d/shadowsocks-go start
+
 /etc/init.d/shadowsocks-go stop
+
 /etc/init.d/shadowsocks-go restart
+
 /etc/init.d/shadowsocks-go status
 
 Windows：https://github.com/shadowsocks/shadowsocks-windows/releases
